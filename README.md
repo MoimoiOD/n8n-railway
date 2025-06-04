@@ -44,3 +44,9 @@ E --> G[Envia id do template correspondente]
 F --> G[Envia mensagem de reconhecimento]
 G --> H[Cria pasta no driver para o usuário]
 H --> I[Cria um atendimento no Pontta com rodízio de atendentes]
+
+## 🧭 Fluxograma do Chatbot
+
+Abaixo está o fluxograma principal do chatbot desenvolvido no n8n:
+
+![Fluxograma do chatbot](docs/imagens/fluxograma-chatbot.png)
