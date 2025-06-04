@@ -2,7 +2,7 @@
 
 Projeto de criação de um chatbot inteligente utilizando a plataforma **n8n** para automação de fluxos de trabalho, atendimento ao cliente e integração com múltiplos canais de comunicação.
 
-![n8n logo](https://n8n.io/images/n8n-logo.svg)
+![n8n logo](docs/images/fluxograma.png)
 
 ---
 
@@ -44,9 +44,3 @@ E --> G[Envia id do template correspondente]
 F --> G[Envia mensagem de reconhecimento]
 G --> H[Cria pasta no driver para o usuário]
 H --> I[Cria um atendimento no Pontta com rodízio de atendentes]
-
-## 🧭 Fluxograma do Chatbot
-
-Abaixo está o fluxograma principal do chatbot desenvolvido no n8n:
-
-![Fluxograma do chatbot](docs/imagens/fluxograma-chatbot.png)
