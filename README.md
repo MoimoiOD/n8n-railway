@@ -2,7 +2,7 @@
 
 Projeto de criação de um chatbot inteligente utilizando a plataforma **n8n** para automação de fluxos de trabalho, atendimento ao cliente e integração com múltiplos canais de comunicação.
 
-![n8n logo](docs/images/fluxograma.png)
+![fluxo-chatbot](./fluxograma.png)
 
 ---
 
